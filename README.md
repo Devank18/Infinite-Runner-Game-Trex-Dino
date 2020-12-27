@@ -8,3 +8,4 @@ Dino Game
 
 Trex Game
 
+Infinite Runner Game
